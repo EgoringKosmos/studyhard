@@ -3,4 +3,4 @@ cmake_minimum_required(VERSION 2.8) # Проверка версии CMake.
 									# старее указаной, произайдёт аварийный выход.
 
 add_executable(studyhard main.cpp)		# Создает исполняемый файл с именем main
-									# из исходника main.cpp
+	  								# из исходника main.cpp 
